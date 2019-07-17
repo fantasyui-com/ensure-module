@@ -1,3 +1,5 @@
+// Author: {{author}}
+
 const promiseFactory = require('./promise.mjs');
 
 module.exports = ({context, setup, input}) => {
