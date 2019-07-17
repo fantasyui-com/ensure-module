@@ -5,8 +5,8 @@ const handlebarsCopy = require('../handlebars-copy');
 
 module.exports = function(src, dest, data){
 
-    console.log( dest, data);
-    console.log( data);
+    //console.log( dest, data);
+    //c//onsole.log( data);
     handlebarsCopy(src, dest, data);
 
 
